@@ -19,8 +19,8 @@
   "author": "Sven Sauleau <sven@cloudflare.com>",
   "license": "MIT",
   "devDependencies": {
-    "copy-webpack-plugin": "^5.0.3",
-    "exports-loader": "^0.7.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "exports-loader": "^4.0.0",
     "shelljs": "^0.8.3"
   }
 }
